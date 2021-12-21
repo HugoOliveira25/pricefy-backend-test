@@ -1,0 +1,12 @@
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\bin\Debug\netcoreapp3.1\DesafioPricefy.Dominio.dll
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.csprojAssemblyReference.cache
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.AssemblyInfoInputs.cache
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.AssemblyInfo.cs
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\bin\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.deps.json
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\bin\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.dll
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\bin\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.pdb
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\bin\Debug\netcoreapp3.1\DesafioPricefy.Dominio.pdb
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.csproj.CoreCompileInputs.cache
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.csproj.CopyComplete
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.dll
+C:\Processo seletivos\Pricefy\DesafioPricefy.Repositorio\obj\Debug\netcoreapp3.1\DesafioPricefy.Repositorio.pdb

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioPricefy.Dominio\DesafioPricefy.Dominio.csproj" />
+    <ProjectReference Include="..\DesafioPricefy.Handler\DesafioPricefy.Handler.csproj" />
+    <ProjectReference Include="..\DesafioPricefy.Infra\DesafioPricefy.Infra.csproj" />
+    <ProjectReference Include="..\DesafioPricefy.Repositorio\DesafioPricefy.Repositorio.csproj" />
+  </ItemGroup>
+
+
+</Project>
